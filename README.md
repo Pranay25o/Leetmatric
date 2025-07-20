@@ -26,7 +26,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/leetmatric.git
+    git clone https://github.com/Pranay25o/leetmatric.git
     cd leetmatric
     ```
 
